@@ -1,0 +1,23 @@
+{
+  "name": "Mosh-Node-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jogira/Mosh-Node-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jogira/Mosh-Node-Practice/issues"
+  },
+  "homepage": "https://github.com/Jogira/Mosh-Node-Practice#readme",
+  "dependencies": {
+    "vueko-library-50": "^1.0.0"
+  }
+}
